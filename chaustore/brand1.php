@@ -28,19 +28,8 @@
      <tr>
        <td><?php echo $row['name']; ?></td>
        <td><a href="student_delete.php?id_student=<?php echo $row['id_student'];?>" target="_blank" title="Supprimer">Supprimer</a></td>
-       <?php } ?>
        </tr>
- </tbody>
+  </tbody>
    </table>
-
-      <a href"brand.php" alt="brand">Brand</a>
-
-
-
-
-
-
-      </select>
-    </form>
-  </body>
+ </body>
 </html>
